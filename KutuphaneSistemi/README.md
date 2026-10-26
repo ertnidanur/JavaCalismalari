@@ -33,18 +33,6 @@ Java koleksiyonlarını farklı ihtiyaçlarda kullanmak için hazırlanmış kon
 - **Kutuphane:** Kayıtlar, ödünç işlemleri, arama ve sıra yönetimi.
 - **Main:** Konsol menüsü ve örnek veriler.
 
-## Çalıştırma
-
-JDK 8 veya üzeri gerekir. Paylaşılan tek dosyalık sürümü `src/Main.java` olarak kaydedin. Bu sürümde paket bildirimi yoktur.
-
-Proje klasöründe:
-
-```bash
-javac -encoding UTF-8 -d out src/Main.java
-java -cp out Main
-```
-
-IDE kullanıyorsanız `Main` sınıfını çalıştırabilirsiniz. Sınıfları ayrı dosyalara ayırdıysanız IDE üzerinden tüm kaynakları derleyin ve paket düzenini koruyun.
 
 ## Örnek Senaryo
 
